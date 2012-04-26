@@ -6,3 +6,5 @@ by [Michael Hartl](http://michaelhartl.com/).
 
 Add a little more readme stuffs.
 Another change.
+Yet another change.
+
